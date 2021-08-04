@@ -12,7 +12,7 @@
     <font face="Arial, Helvetica, sans-serif">Data visualizations are very exciting to me and I would love to learn more about incorporating D3 into React to&nbsp;create more dynamic content.</font>
 </p>
 <p style="text-align: center;">
-    <font face="Arial, Helvetica, sans-serif">Please feel free to contact me &nbsp;</font>
+    <font face="Arial, Helvetica, sans-serif">Please feel free to contact me&nbsp;</font>
     <font face="Arial, Helvetica, sans-serif"><a href="mailto:josephlstalnaker@gmail.com">here</a>.</font>
 </p>
 <p style="text-align: center;">
