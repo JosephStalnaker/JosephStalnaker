@@ -12,7 +12,7 @@
 <p align='center'>
     <font face="century-gothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif sans-serif">Data visualizations are very exciting to me and I would love to learn more about incorporating D3 into React to&nbsp;create more dynamic content.</font>
 </p>
-                                                                                                  <hr>
+<hr height: 1px;>
 <p align='center'>
     <font face="century-gothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif sans-serif">Please feel free to contact me&nbsp;</font>
     <font face="century-gothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif sans-serif"><a href="mailto:josephlstalnaker@gmail.com">here</a>.</font>
