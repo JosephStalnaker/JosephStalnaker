@@ -1,5 +1,6 @@
 <p align='center';"><span style="font-family: century-gothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;">My name is&nbsp;</span><strong><span style="font-family: century-gothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif;">Joseph Stalnaker.</span></strong></p>
 <p align='center'>
+<hr>
     <font face="century-gothic, Century Gothic, CenturyGothic, AppleGothic, sans-serif">I am a software engineer who loves art, design, fashion, film and music. &nbsp;I want to create web experiences that are unique and well designed.</font>
 </p>
 <p align='center'>
